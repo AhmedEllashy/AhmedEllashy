@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ellahsy</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">IOS Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadellashy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadellashy" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Native ios (Swift , Objective-c) , C++**
 
-- 💬 Ask me about **Flutter , Dart , OOP , Problem Solving**
+- 💬 Ask me about **Swift , UIKIT , SWIFTUI , OOP , Problem Solving**
 
 - 📫 How to reach me **ahmadellashy2000@icloud.com**
 
