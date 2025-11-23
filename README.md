@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Abdelrahman ElKhodary Banner"/>
+<img src="assets/banner.png" alt="Ahmed Ellashy Banner"/>
 
 # 💫 About Me:
 🚀 <b>I’m currently working on:</b><br>
@@ -14,9 +14,9 @@ iOS development (Swift, UIKit, SwiftUI, Networking, Testing), app architecture, 
 Strengthening leadership and project management skills, improving team communication, and mastering how to plan, organize, and lead full end-to-end software development lifecycles efficiently.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elkhodary/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdelrahman.elkhodary114)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahman.elkhodary114@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ellashy/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/ahmadellashy2000)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadellashy2000@gmail.com)
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -42,8 +42,8 @@ Strengthening leadership and project management skills, improving team communica
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdelrahmanElKhodary114&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=AhmedEllashy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=AbdelrahmanElKhodary114&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=AhmedEllashy&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElKhodary114&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEllashy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
