@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Ahmed Ellashy Banner"/>
+<img src="assets/banner.png" alt="Ahmed Ellashy Banner.png"/>
 
 # 💫 About Me:
 🚀 <b>I’m currently working on:</b><br>
